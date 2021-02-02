@@ -25,3 +25,9 @@ My college name is **Andhra Loyola Institute of Engineering and Technology**
 the syntax for creating a link in markdown [text](url)
 
 eg: [google](https://www.google.com)
+# create a table
+s.no|s.name|s.marks
+----|------|--------
+1|abc|99
+2|xyz|89
+3|hcl|77
