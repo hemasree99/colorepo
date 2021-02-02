@@ -31,3 +31,14 @@ s.no|s.name|s.marks
 1|abc|99
 2|xyz|89
 3|hcl|77
+
+# Insert image:
+![alt_myimage](img.png)
+
+# insert a code
+Explain about sum of two numbers using python
+
+     a=2
+     b=4
+     c=a+b
+     print("the sum of {} and {} is {}".format(a,b,c))
